@@ -1,0 +1,27 @@
+.contact{
+    margin-top: 250px;
+    
+}
+.dragonImg{
+    opacity: 0.9;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.socialMedia{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30%;
+    margin-right: 30%;
+    align-items: center;
+}
+.socialMedia a{
+    text-decoration: none;
+    color: rgb(117, 60, 60);
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+.socialMedia h2 {
+    margin-bottom: 20px;
+    color: rgb(0, 0, 0);
+}
